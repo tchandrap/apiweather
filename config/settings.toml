@@ -1,0 +1,2 @@
+[default]
+LOCATION_JSON="./utils/list_location_id.json"
